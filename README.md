@@ -4,7 +4,7 @@
 
 - <b>Interactive Unix Shell</b>
   - [Shell Project](https://github.com/hudsonhcarpenter/ShellProj)
-- <b>LZW Compression Implementation</b>
+- <b>Lempel-Ziv-Welch Compression Implementation</b>
   - [LZW Project](https://github.com/hudsonhcarpenter/LZWProj)
 - <b>Multiplayer "Go" Game</b>
   - ["Go" Game](https://github.com/hudsonhcarpenter/GoProj)
