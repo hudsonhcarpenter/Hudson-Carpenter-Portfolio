@@ -9,7 +9,7 @@
 - <b>Multiplayer "Go" Game</b>
   - ["Go" Game](https://github.com/hudsonhcarpenter/GoProj)
 - <b>Sports Podcast AI Analysis</b>
-  - [Podcast Project](https://github.com/hudsonhcarpenter/FanduelProj)
+  - [Podcast Project](https://github.com/hudsonhcarpenter/FanduelAnalysis)
 
 <h2> 🤳 Connect with me:</h2>
 <b>[Linkedin](https://www.linkedin.com/in/hudson-carpenter-490772278/)</b>
