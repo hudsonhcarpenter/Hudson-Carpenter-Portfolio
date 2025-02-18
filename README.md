@@ -11,5 +11,5 @@
 - <b>Sports Podcast AI Analysis</b>
   - [Podcast Project](https://github.com/hudsonhcarpenter/FanduelAnalysis)
 
-<h2> 🤳 Connect with me:</h2>
-<b>[Linkedin](https://www.linkedin.com/in/hudson-carpenter-490772278/)</b>
+<h2> 🤳 Connect with me: <b><a href="https://www.linkedin.com/in/hudson-carpenter-490772278/" target="_blank">Linkedin</a></b></h2>
+
